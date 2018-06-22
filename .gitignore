@@ -3,4 +3,6 @@ package
 
 __pycache__
 
+.vs
+.vscode
 .DS_Store
