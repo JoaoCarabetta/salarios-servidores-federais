@@ -1,2 +1,4 @@
-.brasilio/
-package/
+.brasilio
+package
+
+__pycache__

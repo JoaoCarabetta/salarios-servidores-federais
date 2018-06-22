@@ -1,3 +1,5 @@
+print("oi")
+Exception
 import requests
 from dateutil.relativedelta import relativedelta
 import datetime
@@ -87,9 +89,8 @@ def manage_transform(maxthreads=10, verbose=False):
     #     thread.start()
 
     create_datapackage(verbose=verbose)
-
+import time
 if __name__ == '__main__':
-    print("oi!")
-    #manage_transform(1, verbose=True)
+    manage_transform(1, verbose=True)
     transform_data(generate_month_year()[0], True)
     create_datapackage(verbose=True)
