@@ -1,0 +1,24 @@
+{
+    "name": "cursos-prouni",
+    "title": "Cursos e notas de corte do PROUNI 2018",
+    "licenses": [
+        {
+            "name": "Creative Commons Attribution Share-Alike 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "version": "4.0",
+            "id": "cc-by-sa-4.0"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Ministério Educação do Brasil (MEC)",
+            "web": "http://prounialuno.mec.gov.br/consulta/publica/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Álvaro Justen",
+            "web": "https://twitter.com/turicas"
+        }
+    ]
+}
